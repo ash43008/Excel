@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal Gear Excelsus
+* source:	https://sketchfab.com/3d-models/metal-gear-excelsus-5c5784476a22461785f6d4409d6ab7da
+* author:	Neff-Galmud (https://sketchfab.com/Neff-Galmud)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal Gear Excelsus" (https://sketchfab.com/3d-models/metal-gear-excelsus-5c5784476a22461785f6d4409d6ab7da) by Neff-Galmud (https://sketchfab.com/Neff-Galmud) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
